@@ -37,9 +37,9 @@ FlavourFusion/
 
 │
 
-├── app.py
+├── aPP.py
 
-├── requirements.txt
+├── RequireMents.txt
 
 ├── .env  # (Not included in GitHub for security)
 
