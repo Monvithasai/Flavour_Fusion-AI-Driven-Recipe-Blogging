@@ -40,8 +40,8 @@ FlavourFusion/
 
 ├── requirements.txt
 
-├── .env  
-# (Not included in GitHub for security)
+├── .env  # (Not included in GitHub for security)
+
 └── README.md
 
 👉Install Dependencies
