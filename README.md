@@ -34,6 +34,7 @@ Developed as part of the Google Cloud Generative AI Internship Program.
 
 📂 Project Structure
 FlavourFusion/
+
 │
 
 ├── app.py
