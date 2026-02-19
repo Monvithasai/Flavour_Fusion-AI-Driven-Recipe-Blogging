@@ -35,18 +35,23 @@ Developed as part of the Google Cloud Generative AI Internship Program.
 📂 Project Structure
 FlavourFusion/
 
-│
-├── app.py
-├── requirements.txt
-├── README.md
-├── .gitignore
-│
-├── ProjectInitialization and Planning/
-├── Data Collection and Preprocessing/
-├── Model Development/
-├── Project Documentation/
-│
-└── outputs/
+app.py
+
+requirements.txt
+
+README.md
+
+.gitignore
+
+ProjectInitialization and Planning
+
+Data Collection and Preprocessing
+
+Model Development
+
+Project Documentation
+
+outputs
 
 
 👉Install Dependencies
