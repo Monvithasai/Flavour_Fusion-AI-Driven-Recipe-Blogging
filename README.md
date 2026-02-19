@@ -36,14 +36,18 @@ Developed as part of the Google Cloud Generative AI Internship Program.
 FlavourFusion/
 
 │
+├── app.py
+├── requirements.txt
+├── README.md
+├── .gitignore
+│
+├── ProjectInitialization and Planning/
+├── Data Collection and Preprocessing/
+├── Model Development/
+├── Project Documentation/
+│
+└── outputs/
 
-├── aPP.py
-
-├── RequireMents.txt
-
-├── .env  # (Not included in GitHub for security)
-
-└── README.md
 
 👉Install Dependencies
 
